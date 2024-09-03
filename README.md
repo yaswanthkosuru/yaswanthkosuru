@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm yaswanth</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+![Yaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaswanthkosuru&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
