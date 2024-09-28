@@ -2,7 +2,7 @@
 I'm currently learning System Design,
 <br>I'm currently doing Open Source contribution,
 <br>I'm passionate about solving Real world problems using my knowledge,
-Connect With me : [yaswanthkosuru999@gmail.com](mailto:yaswanthkosuru999@gmail.com)
+<br>Connect With me : [yaswanthkosuru999@gmail.com](mailto:yaswanthkosuru999@gmail.com)
 
 <br>
 
