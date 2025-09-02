@@ -7,6 +7,7 @@ Have an idea contact me:
 
 
 ## 🌐 Socials:
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/yaswanthkosuru/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yaswanth04/) 
 
 # 💻 Tech Stack:
